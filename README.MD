@@ -3,6 +3,7 @@ This repository contains a collection of miscellaneous Jupyter notebooks which i
 All models are implemented in Tesnorflow.
 
 * **DCGAN** - An implementation of Deep Convolutional Generative Adversarial Network.
+* **InfoGAN** An implementation of InfoGAN: Interpretable representation learning by information maximizing generative adversarial nets
 * **Deep Layer Visualization** - Tutorial on visualizing intermediate layer activation during MNIST classification.
 * **Deep Network Comparison** - Implementations of ResNet, HighwayNet, and DenseNet, for CIFAR10 classification.
 * **RNN-TF** - Tutorial on implementing basic RNN in tensorflow.
